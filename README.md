@@ -1,4 +1,4 @@
-             My first React App
+  My first React App
 
 Available Plugins
 Two official plugins are supported for React development with Vite:
@@ -6,7 +6,7 @@ Two official plugins are supported for React development with Vite:
 1. @vitejs/plugin-react: Uses Babel for Fast Refresh.
 2. @vitejs/plugin-react-swc: Uses SWC for Fast Refresh.
 
-        Expanding ESLint Configuration
+   Expanding ESLint Configuration
 To enhance your ESLint setup for production applications, you can enable type-aware lint rules by following these steps:
 
 1. Update parserOptions: Configure the parserOptions property to include your project's tsconfig files:
